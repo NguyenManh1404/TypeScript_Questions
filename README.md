@@ -20,7 +20,8 @@
 - Có hiển thị lỗi trực tiếp khi code với thời gian thực, còn Js thì phải chạy lên mới thấy lỗi.
 - Có đề xuất code cho lập trình viên những lập trình viên. Điều đó giúp ít rất nhiều cho việc làm việc nhóm.
 - Dễ dàng hơn trong phát triển các dự án lớn, được hỗ trợ bởi các Javascript Framwork lớn.
-- Hỗ trợ OOP mạnh mẽ bởi vì hầu hết các cú pháp hướng đối tượng đều được hỗ trợ bởi Typescript
+- Hỗ trợ OOP mạnh mẽ bởi vì hầu hết các cú pháp hướng đối tượng đều được hỗ trợ bởi Typescript.
+- Khai báo các biến với kiểu dữ liệu rõ ràng.
 
 ## Câu 3: Khi nào thì nên sử dụng TypeScript, khi nào thì sử dụng Javascript trong dự án?
 - Bởi vì TypeScript là một phiên bản nâng cấp của JavaScript với nhiều điểm mạnh hơn, cho nên chúng ta nên sử dụng TypeScript thay vì Javascript:
